@@ -35,22 +35,22 @@ While the input stack is not empty...
 
 Output:
 =======
--Infix to Prefix Converter-
+	-Infix to Prefix Converter-
 
-Please enter a Mathematical Expression
-(2*3+(6/4)-8)
--+*23/648
-Would  you like to convert another expression? (y/n)y
+	Please enter a Mathematical Expression
+	(2*3+(6/4)-8)
+	-+*23/648
+	Would  you like to convert another expression? (y/n)y
 
-Please enter a Mathematical Expression
-2*3/(2-1)+5*(4-1)
-+/*23-21*5-41
-Would  you like to convert another expression? (y/n)n
+	Please enter a Mathematical Expression
+	2*3/(2-1)+5*(4-1)
+	+/*23-21*5-41
+	Would  you like to convert another expression? (y/n)n
 
 
 
-() Code by Tacuma Solomon
-() Not for Redistribution or Reuse.
+	() Code by Tacuma Solomon
+	() Not for Redistribution or Reuse.
 
-Press any key to continue . . .
+	Press any key to continue . . .
 
