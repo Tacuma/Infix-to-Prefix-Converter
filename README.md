@@ -13,7 +13,7 @@ Uses 3 Stacks,each for:
 
 Description:
 ============
-Please write a C++ source code/program that will  convert an expression in infix notation 
+Please write a C++ source code/program that will convert an expression in infix notation 
 ( e.g. 2 * 3 + (6 / 4) - 8 ) to the equivalent expression in prefix (polish) notation 
 (e.g. - + * 2 3 / 6 4 8 ).
 
